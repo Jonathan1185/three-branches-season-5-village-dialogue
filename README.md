@@ -39,3 +39,9 @@ Test the connection with:
 ```console
 python -m sandbox llm
 ```
+
+##Design Goal: My design goal was to make the villagers have better pathing and also use the messaging feature to differentiate which villager belongs to which roles and includes messaging.
+
+##Short Reflection: After seeing how to the agent behaves I knew that I also wanted the villagers to identify themselves with the player using the messages.
+
+#AI Disclosure and reflection: I used a AI agent (Codex) for my agent to help with the unit behavior and agent navigation.
